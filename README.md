@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Data+Science+%7C+Machine+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Data+Analytics+%7C+Power+BI;AI+Agents+%7C+Backend+%7C+Full+Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=FF2D75&center=true&vCenter=true&width=950&lines=🤖+Building+Intelligent+AI+Systems;🧠+AI%2FML+Engineer+%7C+Data+Scientist;📊+Data+Analytics+%7C+Machine+Learning;✨+Generative+AI+%7C+LLMs+%7C+RAG;⚡+AI+Agents+%7C+NLP+%7C+Computer+Vision;🚀+Backend+%7C+Full-Stack+AI+Applications" />
 
 </p>
 
