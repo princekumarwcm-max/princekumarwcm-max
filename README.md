@@ -1,11 +1,21 @@
-# 🤖 Hi, I'm Prince Kumar
+<h1 align="center">
+  🤖 Prince Kumar
+</h1>
 
-### AI/ML Engineer | Data Scientist | Data Analyst | GenAI Engineer | Full-Stack Developer
+<h3 align="center">
+  AI/ML Engineer • Data Scientist • Data Analyst • GenAI Engineer
+</h3>
 
 <p align="center">
+  <b>Generative AI • LLMs • RAG • AI Agents • Full-Stack AI</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=FF2D75&center=true&vCenter=true&width=950&lines=🤖+Building+Intelligent+AI+Systems;🧠+AI%2FML+Engineer+%7C+Data+Scientist;📊+Data+Analytics+%7C+Machine+Learning;✨+Generative+AI+%7C+LLMs+%7C+RAG;⚡+AI+Agents+%7C+NLP+%7C+Computer+Vision;🚀+Backend+%7C+Full-Stack+AI+Applications" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=FF2D75&center=true&vCenter=true&width=950&lines=🤖+Building+Intelligent+AI+Systems;🧠+AI%2FML+Engineer+%7C+Data+Scientist;📊+Data+Analytics+%7C+Machine+Learning;✨+Generative+AI+%7C+LLMs+%7C+RAG;⚡+AI+Agents+%7C+NLP+%7C+Computer+Vision;🚀+Backend+%7C+Full-Stack+AI+Applications" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:FF1493,100:00BFFF&height=3&section=header" width="90%">
 </p>
 
 ---
@@ -22,6 +32,8 @@
 
 📊 Passionate about transforming **raw data into insights, models and intelligent applications.**
 
+🎯 **Career Focus:** AI/ML Engineering • Data Science • Data Analytics • GenAI • LLM Engineering • Backend Development
+
 ---
 
 ## ⚡ What I Do
@@ -30,9 +42,9 @@
 🤖 Artificial Intelligence
 🧠 Machine Learning & Deep Learning
 📊 Data Science & Data Analytics
-📈 Data Visualization & BI
-🧠 Generative AI & LLMs
-🔎 NLP & RAG
-🤝 AI Agents
-⚙️ Backend Development
+📈 Data Visualization & Business Intelligence
+✨ Generative AI & Large Language Models
+🔎 NLP & Retrieval-Augmented Generation
+🤝 AI Agents & Intelligent Automation
+⚙️ Backend Development & REST APIs
 🌐 Full-Stack AI Applications
