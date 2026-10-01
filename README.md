@@ -28,9 +28,13 @@
   </b>
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Data+Science+%7C+Machine+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Data+Analytics+%7C+Power+BI;AI+Agents+%7C+Backend+%7C+Full+Stack" />
+
+</p>
 <br>
 
-<!-- ===================== TYPING ANIMATION ================== -->
 
 <!-- ===================== TYPING ANIMATION ================== -->
 
