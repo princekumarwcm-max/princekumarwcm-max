@@ -95,83 +95,171 @@ GenAI • LLM Engineering • Backend Development
 
 ---
 
-<!-- ======================= WHAT I DO ======================= -->
+<!-- ======================== WHAT I DO ======================== -->
 
 ## ⚡ What I Do
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=FF2D75&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Intelligence;Engineering+AI-Powered+Applications;From+Machine+Learning+to+Generative+AI"
+    alt="What I Do Animation"
+  />
+</p>
+
+<br>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+<h3 align="center">🤖 Artificial Intelligence</h3>
 
-AI Applications  
-AI Automation  
-AI Agents  
-Intelligent Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Applications-7F00FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-FF2D75?style=for-the-badge" />
+</p>
 
-### 🧠 Machine Learning
+<p align="center">
+  🤖 AI Agents &nbsp; • &nbsp; 🧠 Intelligent Systems
+  <br>
+  ⚡ AI Automation &nbsp; • &nbsp; 🔌 AI APIs
+</p>
 
-Machine Learning  
-Deep Learning  
-Predictive Modeling  
-Classification
+<br>
 
-### ✨ Generative AI
+<h3 align="center">🧠 Machine Learning</h3>
 
-LLMs  
-RAG  
-Prompt Engineering  
-AI Agents
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-7F00FF?style=for-the-badge" />
+</p>
 
-### 🔎 NLP
+<p align="center">
+  📈 Predictive Modeling
+  <br>
+  🎯 Classification &nbsp; • &nbsp; 🔢 Regression
+  <br>
+  🧬 Neural Networks
+</p>
 
-Natural Language Processing  
-Embeddings  
-Vector Search  
-Document Intelligence
+<br>
+
+<h3 align="center">✨ Generative AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF2D75?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🧠 Large Language Models
+  <br>
+  🔎 Retrieval-Augmented Generation
+  <br>
+  ✍️ Prompt Engineering
+  <br>
+  🤖 Agentic AI
+</p>
+
+<br>
+
+<h3 align="center">🔎 Natural Language Processing</h3>
+
+<p align="center">
+  💬 NLP &nbsp; • &nbsp; 🧩 Embeddings
+  <br>
+  🔍 Vector Search &nbsp; • &nbsp; 📄 Document Intelligence
+  <br>
+  🗣️ Text Processing &nbsp; • &nbsp; 🧠 Semantic Search
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Data Science
+<h3 align="center">📊 Data Science</h3>
 
-Python  
-Pandas  
-NumPy  
-EDA  
-Statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### 📈 Data Analytics
+<p align="center">
+  🔢 NumPy &nbsp; • &nbsp; 📊 Pandas
+  <br>
+  🔍 Exploratory Data Analysis
+  <br>
+  📐 Statistics &nbsp; • &nbsp; ⚙️ Feature Engineering
+</p>
 
-SQL  
-Power BI  
-Excel  
-Dashboards
+<br>
 
-### ⚙️ Backend Development
+<h3 align="center">📈 Data Analytics</h3>
 
-Django  
-Flask  
-REST APIs  
-Docker
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-### 🌐 Full-Stack AI
+<p align="center">
+  🗄️ SQL &nbsp; • &nbsp; 📊 Power BI
+  <br>
+  📗 Excel &nbsp; • &nbsp; 📈 Interactive Dashboards
+  <br>
+  🔎 Business Insights &nbsp; • &nbsp; 📊 Data Visualization
+</p>
 
-Frontend  
-Backend  
-APIs  
-Database  
-AI Integration
+<br>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,docker&perline=3" />
+</p>
+
+<p align="center">
+  🐍 Django &nbsp; • &nbsp; 🌶️ Flask
+  <br>
+  🔌 REST APIs &nbsp; • &nbsp; 🐳 Docker
+  <br>
+  🗄️ Database Integration
+</p>
+
+<br>
+
+<h3 align="center">🌐 Full-Stack AI</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,postgresql&perline=5" />
+</p>
+
+<p align="center">
+  🎨 Frontend &nbsp; • &nbsp; ⚙️ Backend
+  <br>
+  🔌 APIs &nbsp; • &nbsp; 🗄️ Databases
+  <br>
+  🤖 AI Integration &nbsp; • &nbsp; 🚀 End-to-End Applications
+</p>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  <b>⚡ AI • ML • GenAI • LLMs • RAG • Data Science • Analytics • Backend • Full-Stack AI ⚡</b>
+</p>
+
 
 <!-- ====================== ANIMATED TECH STACK ====================== -->
 
