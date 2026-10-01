@@ -173,54 +173,174 @@ AI Integration
 
 ---
 
-<!-- ====================== TECH STACK ======================= -->
+<!-- ====================== ANIMATED TECH STACK ====================== -->
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Technologies
 
-### 🐍 Programming & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,django,flask,docker,git,github,vscode" />
-
-</p>
-
-### 🌐 Web & Backend
+### 💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,postgresql" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash&perline=8" />
 </p>
 
 <p align="center">
-
-<b>
-Python • SQL • Django • Flask • REST APIs • Docker • Git • GitHub
-</b>
-
-</p>
-
-### 🤖 AI / ML
-
-<p align="center">
-
-🐍 Python • 🧠 Machine Learning • 🧬 Deep Learning • 🔎 NLP  
-✨ Generative AI • 🧠 LLMs • 🔗 RAG • 🤖 AI Agents  
-👁️ Computer Vision • GANs • Recommendation Systems
-
-</p>
-
-### 📊 Data & Analytics
-
-<p align="center">
-
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
-EDA • Data Cleaning • Feature Engineering • Power BI • Excel • SQL
-
+  <b>Python • JavaScript • TypeScript • SQL • Bash • Markdown</b>
 </p>
 
 ---
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=8" />
+</p>
+
+<p align="center">
+  <b>HTML • CSS • JavaScript • TypeScript • React</b>
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,graphql&perline=8" />
+</p>
+
+<p align="center">
+  <b>Django • FastAPI • Flask • GraphQL • REST APIs • Backend Development</b>
+</p>
+
+---
+
+### 🤖 AI / ML / Generative AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,pytorch&perline=8" />
+</p>
+
+<p align="center">
+  🧠 Machine Learning • 🧬 Deep Learning • ✨ Generative AI • 🧠 LLMs
+  <br>
+  🔎 NLP • 🔗 RAG • 🤖 AI Agents • MCP • Computer Vision
+</p>
+
+---
+
+### 🧠 AI Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,keras,tensorflow,pytorch,opencv,jupyter&perline=8" />
+</p>
+
+<p align="center">
+  <b>
+    LangChain • LangGraph • Hugging Face • Keras • TensorFlow •
+    PyTorch • OpenCV • Jupyter
+  </b>
+</p>
+
+---
+
+### 📊 Data Science & Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter&perline=8" />
+</p>
+
+<p align="center">
+  <b>
+    Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn •
+    EDA • Feature Engineering • Data Cleaning
+  </b>
+</p>
+
+<p align="center">
+  📊 Power BI • 📗 Excel • 📈 Data Visualization • 📋 SQL
+</p>
+
+---
+
+### 🗄️ Databases & Vector Stores
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite&perline=8" />
+</p>
+
+<p align="center">
+  🧠 ChromaDB • FAISS • Pinecone
+  <br>
+  <b>MySQL • MongoDB • PostgreSQL • SQLite</b>
+</p>
+
+---
+
+### 🔧 Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&perline=8" />
+</p>
+
+<p align="center">
+  <b>
+    Git • GitHub • VS Code • Docker • Linux • Postman • Jupyter
+  </b>
+</p>
+
+---
+
+### 🚀 AI & Productivity Tools
+
+<p align="center">
+  <b>
+    ⚡ n8n • 🎨 Canva • 🖌️ Figma • 🚀 Streamlit •
+    🔌 MCP • 🤖 AI Agents
+  </b>
+</p>
+
+---
+
+### 🧩 Complete Skill Map
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF1493?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-7F00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</p>
+
 
 <!-- ====================== PROJECTS ========================= -->
 
