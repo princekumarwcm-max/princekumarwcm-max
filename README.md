@@ -1,3 +1,19 @@
+<!-- ========================================================= -->
+<!--                    PRINCE KUMAR PROFILE                   -->
+<!-- ========================================================= -->
+
+<!-- ========================= HERO ========================== -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"
+    width="100%"
+    alt="AI Developer Animation"
+  />
+</p>
+
+<br>
+
 <h1 align="center">
   🤖 Prince Kumar
 </h1>
@@ -7,218 +23,410 @@
 </h3>
 
 <p align="center">
-  <b>Generative AI • LLMs • RAG • AI Agents • Full-Stack AI</b>
+  <b>
+    Generative AI • LLMs • RAG • AI Agents • NLP • Full-Stack AI
+  </b>
 </p>
+
+<br>
+
+<!-- ===================== TYPING ANIMATION ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=FF2D75&center=true&vCenter=true&width=950&lines=🤖+Building+Intelligent+AI+Systems;🧠+AI%2FML+Engineer+%7C+Data+Scientist;📊+Data+Analytics+%7C+Machine+Learning;✨+Generative+AI+%7C+LLMs+%7C+RAG;⚡+AI+Agents+%7C+NLP+%7C+Computer+Vision;🚀+Backend+%7C+Full-Stack+AI+Applications" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=FF2D75&center=true&vCenter=true&width=1000&lines=🚀+Building+Intelligent+AI+Systems;🤖+AI%2FML+Engineer+%7C+Data+Scientist;✨+Generative+AI+%7C+LLMs+%7C+RAG;🧠+AI+Agents+%7C+NLP+%7C+Computer+Vision;🐍+Python+%7C+Machine+Learning+%7C+Data+Analytics;⚙️+Backend+%7C+REST+APIs+%7C+Full-Stack+AI"
+    alt="Typing Animation"
+  />
 </p>
+
+<br>
+
+<!-- ===================== NEON DIVIDER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:FF1493,100:00BFFF&height=3&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:FF1493,100:00BFFF&height=110&section=header"
+    width="100%"
+  />
 </p>
 
----
+<!-- ======================== BADGES ========================= -->
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🤖_AI%2FML-Engineer-FF2D75?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/🧠_Generative-AI-7F00FF?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/🔎_RAG-LLMs-00BFFF?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/📊_Data-Science-FF1493?style=for-the-badge">
+
+</p>
+
+<br>
+
+<!-- ======================== INTRO ========================== -->
+
+<h2 align="center">
+  🚀 Building Intelligent AI Systems
+</h2>
+
+<p align="center">
+  Turning <b>Data + AI + LLMs + RAG + Agents</b>
+  into practical intelligent applications.
+</p>
+
+<br>
+
+<!-- ======================== ABOUT ========================== -->
 
 ## 🧠 About Me
 
 🎓 **B.Tech Graduate — Computer Science & Engineering (AI & ML)**
 
-💻 I build practical solutions across **Data Science, Machine Learning, Generative AI, Data Analytics and Full-Stack Development.**
+💻 I build practical solutions across **Data Science, Machine Learning,
+Generative AI, Data Analytics and Full-Stack Development.**
 
-🚀 Worked on **120+ projects and practical builds** across AI, ML, Data Science, Analytics, Backend and Full-Stack development.
+🚀 Worked on **120+ projects and practical builds** across AI, ML,
+Data Science, Analytics, Backend and Full-Stack development.
 
-🤖 Interested in building **AI-powered applications, intelligent agents, RAG systems, LLM applications and data-driven solutions.**
+🤖 Interested in building **AI-powered applications, intelligent agents,
+RAG systems, LLM applications and data-driven solutions.**
 
-📊 Passionate about transforming **raw data into insights, models and intelligent applications.**
+📊 Passionate about transforming **raw data into insights, models
+and intelligent applications.**
 
-🎯 **Career Focus:** AI/ML Engineering • Data Science • Data Analytics • GenAI • LLM Engineering • Backend Development
+🎯 **Career Focus:** AI/ML Engineering • Data Science • Data Analytics •
+GenAI • LLM Engineering • Backend Development
 
 ---
 
+<!-- ======================= WHAT I DO ======================= -->
+
 ## ⚡ What I Do
 
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning & Deep Learning
-📊 Data Science & Data Analytics
-📈 Data Visualization & Business Intelligence
-✨ Generative AI & Large Language Models
-🔎 NLP & Retrieval-Augmented Generation
-🤝 AI Agents & Intelligent Automation
-⚙️ Backend Development & REST APIs
-🌐 Full-Stack AI Applications
+<table>
+<tr>
 
-🚀 Featured AI & Data Projects
-🤖 01. Agentic AI / RAG Chatbot
+<td width="50%">
 
-An intelligent conversational AI system built around LLMs, RAG, memory, AI agents and document intelligence.
+### 🤖 Artificial Intelligence
 
-Core Areas: LLMs • RAG • AI Agents • NLP • Vector Search • APIs
+AI Applications  
+AI Automation  
+AI Agents  
+Intelligent Systems
 
-💰 02. AI Expense Tracker
+### 🧠 Machine Learning
 
-AI-powered expense management system for extracting, categorizing and analyzing financial data.
+Machine Learning  
+Deep Learning  
+Predictive Modeling  
+Classification
 
-Core Areas: Python • OCR • SQL • AI • Data Analytics • Visualization
+### ✨ Generative AI
 
-📊 03. Customer Churn Prediction
-
-Machine Learning system designed to predict customer churn and identify important factors influencing customer retention.
-
-Core Areas: Python • Pandas • EDA • Feature Engineering • Scikit-learn • ML
-
-🕵️ 04. Fraud Detection System
-
-Machine Learning based fraud detection solution using classification and anomaly detection techniques.
-
-Core Areas: Random Forest • Isolation Forest • Python • Scikit-learn • Data Analysis
-
-💼 05. Job Recommendation Engine
-
-AI/ML based recommendation system designed to match users with relevant jobs based on skills and profile information.
-
-Core Areas: Python • NLP • Machine Learning • Recommendation Systems
-
-📰 06. Fake News Detection
-
-NLP-based application for detecting potentially misleading or fake news content.
-
-Core Areas: NLP • TF-IDF • Naive Bayes • Python • Streamlit
-
-🌡️ 07. Climate / Temperature Prediction
-
-Machine Learning based predictive application for analyzing and forecasting temperature-related patterns.
-
-Core Areas: Python • Pandas • Scikit-learn • EDA • Data Visualization
-
-🧠 08. Nova AI Assistant
-
-AI assistant project focused on intelligent interaction, automation and AI-powered assistance.
-
-Core Areas: AI • NLP • Python • APIs • Automation
-
-🎙️ 09. Jarvish AI
-
-Multimodal AI assistant project involving intelligent interaction, voice, avatar and AI-powered responses.
-
-Core Areas: Multimodal AI • Voice AI • NLP • AI Assistant
-
-🌐 10. Hanutech Full-Stack Website
-
-Full-stack application development involving frontend, backend, APIs, database integration and application workflows.
-
-Core Areas: Full Stack • Backend • APIs • Database • Web Development
-
-📊 120+ Projects
-🚀 Project Portfolio
-
-120+ projects and practical builds across Artificial Intelligence, Machine Learning, Data Science, Data Analytics, Generative AI, NLP, Backend Development and Full-Stack Applications.
-
-Main Project Areas
-Domain	Focus
-🤖 Artificial Intelligence	AI Applications & Automation
-🧠 Machine Learning	Prediction & Classification
-🧬 Deep Learning	Neural Networks & Intelligent Models
-✨ Generative AI	LLM Applications & AI Systems
-🔎 NLP	Text Processing & Language AI
-📊 Data Science	EDA, ML & Predictive Analytics
-📈 Data Analytics	SQL, Power BI & Dashboards
-⚙️ Backend	Django, Flask & REST APIs
-🌐 Full Stack	End-to-End Applications
-🤝 AI Agents	Agentic Workflows & Automation
-🛠️ Technical Skills
-🐍 Programming & Data
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker" /> </p>
-
-Python • SQL • Pandas • NumPy • Excel
-
-📊 Data Science & Analytics
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Exploratory Data Analysis
-Data Cleaning
-Feature Engineering
-Data Visualization
-Statistics
-Power BI
-Excel
-SQL
-🤖 AI / Machine Learning
-Machine Learning
-Deep Learning
-Natural Language Processing
-Computer Vision
-Generative AI
-Large Language Models
-Retrieval-Augmented Generation
+LLMs  
+RAG  
+Prompt Engineering  
 AI Agents
-GANs
-Recommendation Systems
-Anomaly Detection
-Predictive Modeling
-🧠 Generative AI
-LLMs
-RAG
-AI Agents
-Prompt Engineering
-Vector Databases
-Embeddings
+
+### 🔎 NLP
+
+Natural Language Processing  
+Embeddings  
+Vector Search  
 Document Intelligence
-AI Automation
-Multimodal AI
-Conversational AI
-⚙️ Backend & Development
-Django
-Flask
-REST APIs
-Python Backend
-SQL
-MySQL
-PostgreSQL
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+Python  
+Pandas  
+NumPy  
+EDA  
+Statistics
+
+### 📈 Data Analytics
+
+SQL  
+Power BI  
+Excel  
+Dashboards
+
+### ⚙️ Backend Development
+
+Django  
+Flask  
+REST APIs  
 Docker
-Git
-GitHub
-API Integration
-💼 Experience & Practical Work
-🔹 Appwars Technologies
 
-Data Science & AI
+### 🌐 Full-Stack AI
 
-Worked on practical Machine Learning, Data Science, Python and AI applications including data preprocessing, feature engineering, model training/evaluation and AI application development.
+Frontend  
+Backend  
+APIs  
+Database  
+AI Integration
 
-🔹 IBM SkillsBuild
+</td>
 
-Agentic AI
+</tr>
+</table>
 
-Hands-on learning and project work around AI agents, intelligent workflows and Generative AI.
+---
 
-🔹 IBM SkillsBuild
+<!-- ====================== TECH STACK ======================= -->
 
-Machine Learning & Data
+## 🛠️ Tech Stack
 
-Practical work with Python, data analysis, machine learning, visualization and data science workflows.
+### 🐍 Programming & Development
 
-🔹 Jarvish AI
+<p align="center">
 
-Multimodal AI / AI Assistant
+<img src="https://skillicons.dev/icons?i=python,mysql,django,flask,docker,git,github,vscode" />
 
-Worked on AI assistant concepts involving voice, avatar, intelligent interaction and multimodal AI.
+</p>
 
-🔹 Hanutech
+### 🌐 Web & Backend
 
-Full-Stack / AI Development
+<p align="center">
 
-Worked on full-stack and AI-based application development involving application workflows, backend systems and web technologies.
+<img src="https://skillicons.dev/icons?i=html,css,js,postgresql" />
 
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=princekumarwcm-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumarwcm-max&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=princekumarwcm-max&theme=tokyonight&hide_border=true" /> </p>
-🎯 Currently Exploring
+</p>
+
+<p align="center">
+
+<b>
+Python • SQL • Django • Flask • REST APIs • Docker • Git • GitHub
+</b>
+
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+
+🐍 Python • 🧠 Machine Learning • 🧬 Deep Learning • 🔎 NLP  
+✨ Generative AI • 🧠 LLMs • 🔗 RAG • 🤖 AI Agents  
+👁️ Computer Vision • GANs • Recommendation Systems
+
+</p>
+
+### 📊 Data & Analytics
+
+<p align="center">
+
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
+EDA • Data Cleaning • Feature Engineering • Power BI • Excel • SQL
+
+</p>
+
+---
+
+<!-- ====================== PROJECTS ========================= -->
+
+## 🚀 Featured AI & Data Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 01. Agentic AI / RAG Chatbot
+
+LLMs • RAG • AI Agents • NLP • Vector Search • APIs
+
+</td>
+
+<td width="50%">
+
+### 💰 02. AI Expense Tracker
+
+Python • OCR • SQL • AI • Analytics • Visualization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📊 03. Customer Churn Prediction
+
+Python • Pandas • EDA • Feature Engineering • Scikit-learn
+
+</td>
+
+<td>
+
+### 🕵️ 04. Fraud Detection System
+
+Random Forest • Isolation Forest • Python • ML
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💼 05. Job Recommendation Engine
+
+Python • NLP • Machine Learning • Recommendation Systems
+
+</td>
+
+<td>
+
+### 📰 06. Fake News Detection
+
+NLP • TF-IDF • Naive Bayes • Python • Streamlit
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🌡️ 07. Climate / Temperature Prediction
+
+Python • Pandas • Scikit-learn • EDA • Data Visualization
+
+</td>
+
+<td>
+
+### 🧠 08. Nova AI Assistant
+
+AI • NLP • APIs • Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎙️ 09. Jarvish AI
+
+Multimodal AI • Voice • Avatar • NLP
+
+</td>
+
+<td>
+
+### 🌐 10. Hanutech Full-Stack Website
+
+Full Stack • Backend • APIs • Database
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ====================== 120 PROJECTS ===================== -->
+
+## 📊 120+ Projects & Practical Builds
+
+🚀 **120+ projects and practical builds** across:
+
+| Domain | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI Applications & Automation |
+| 🧠 Machine Learning | Prediction & Classification |
+| 🧬 Deep Learning | Neural Networks |
+| ✨ Generative AI | LLM Applications |
+| 🔎 NLP | Language AI |
+| 📊 Data Science | EDA & Predictive Analytics |
+| 📈 Data Analytics | SQL, Power BI & Dashboards |
+| ⚙️ Backend | Django, Flask & REST APIs |
+| 🌐 Full Stack | End-to-End Applications |
+| 🤝 AI Agents | Agentic Workflows & Automation |
+
+---
+
+<!-- ====================== EXPERIENCE ======================== -->
+
+## 💼 Experience & Practical Work
+
+### 🔹 Appwars Technologies
+**Data Science & AI**
+
+Worked on practical **Machine Learning, Data Science, Python and AI
+applications**, including:
+
+- Data preprocessing
+- Feature engineering
+- Model training & evaluation
+- Python development
+- AI application development
+- REST API development
+
+### 🔹 IBM SkillsBuild
+**Agentic AI**
+
+Hands-on learning and project work around:
+
+- AI Agents
+- Intelligent workflows
+- Generative AI
+- Agentic systems
+
+### 🔹 IBM SkillsBuild
+**Machine Learning & Data**
+
+Practical work involving:
+
+- Python
+- Data Analysis
+- Machine Learning
+- Visualization
+- Data Science workflows
+
+### 🔹 Jarvish AI
+**Multimodal AI / AI Assistant**
+
+Worked on concepts involving:
+
+- Voice AI
+- AI Assistant
+- Avatar
+- Intelligent interaction
+- Multimodal AI
+
+### 🔹 Hanutech
+**Full-Stack / AI Development**
+
+Worked on:
+
+- Full-stack applications
+- Backend systems
+- APIs
+- Application workflows
+- AI-based development
+
+---
+
+<!-- ====================== CURRENTLY ======================== -->
+
+## 🎯 Currently Exploring
+
+```text
 🧠 Advanced Generative AI
 🤖 Agentic AI Systems
 🔎 RAG & Vector Databases
@@ -227,16 +435,3 @@ Worked on full-stack and AI-based application development involving application 
 ⚙️ AI Backend Engineering
 🌐 Production AI Applications
 🔐 AI Application Security
-🏆 What I'm Building
-
-🚀 Building intelligent applications that combine Data + AI + Software Engineering.
-
-🧠 Exploring the intersection of Machine Learning, Generative AI, LLMs, RAG and Agentic AI.
-
-📊 Turning data into insights, predictions and intelligent products.
-
-⚙️ Developing scalable Python backend and full-stack AI applications.
-
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/prince-kumar-125396321/"> <img src="https://img.shields.io/badge/LinkedIn-Prince%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/princekumarwcm-max"> <img src="https://img.shields.io/badge/GitHub-Prince%20Kumar-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://my-portfolio-ten-mocha-13.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:FF1493,100:00BFFF&height=120&section=footer" width="100%"/> </p> <h3 align="center"> 🤖 Building with Data • Engineering with AI • Creating Intelligent Solutions </h3> ```
