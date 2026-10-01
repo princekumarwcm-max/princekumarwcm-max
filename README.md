@@ -34,19 +34,6 @@
 
 </p>
 <br>
-
-
-<!-- ===================== TYPING ANIMATION ================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF2D75&center=true&vCenter=true&width=900&height=60&lines=Building+Intelligent+AI+Systems;AI%2FML+Engineer+%7C+Data+Scientist;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+NLP+%7C+Computer+Vision;Python+%7C+Machine+Learning+%7C+Data+Analytics"
-    alt="Typing Animation"
-  />
-</p>
-
-<br>
-
 <!-- ===================== NEON DIVIDER ====================== -->
 
 <p align="center">
