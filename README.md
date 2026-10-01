@@ -98,12 +98,16 @@ GenAI • LLM Engineering • Backend Development
 <!-- ======================== WHAT I DO ======================== -->
 
 ## ⚡ What I Do
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=FF2D75&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Intelligence;Engineering+AI-Powered+Applications;From+Machine+Learning+to+Generative+AI"
-    alt="What I Do Animation"
+    src="./assets/prince-ai.gif"
+    width="850"
+    alt="Prince Kumar AI Animation"
   />
+</p>
+
+<p align="center">
+  <b>🤖 Building Intelligent AI Systems • 🧠 Machine Learning • ✨ Generative AI • 📊 Data Analytics</b>
 </p>
 
 <br>
@@ -116,17 +120,18 @@ GenAI • LLM Engineering • Backend Development
 <h3 align="center">🤖 Artificial Intelligence</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Applications-7F00FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Applications-7F00FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Automation-FF2D75?style=for-the-badge" />
 </p>
 
 <p align="center">
-  🤖 AI Agents &nbsp; • &nbsp; 🧠 Intelligent Systems
-  <br>
-  ⚡ AI Automation &nbsp; • &nbsp; 🔌 AI APIs
+  🤖 AI Agents<br>
+  🧠 Intelligent Systems<br>
+  ⚡ AI Automation<br>
+  🔌 AI APIs
 </p>
 
-<br>
+---
 
 <h3 align="center">🧠 Machine Learning</h3>
 
@@ -136,14 +141,12 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  📈 Predictive Modeling
-  <br>
-  🎯 Classification &nbsp; • &nbsp; 🔢 Regression
-  <br>
+  📈 Predictive Modeling<br>
+  🎯 Classification • 🔢 Regression<br>
   🧬 Neural Networks
 </p>
 
-<br>
+---
 
 <h3 align="center">✨ Generative AI</h3>
 
@@ -153,25 +156,20 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  🧠 Large Language Models
-  <br>
-  🔎 Retrieval-Augmented Generation
-  <br>
-  ✍️ Prompt Engineering
-  <br>
+  🧠 Large Language Models<br>
+  🔎 Retrieval-Augmented Generation<br>
+  ✍️ Prompt Engineering<br>
   🤖 Agentic AI
 </p>
 
-<br>
+---
 
 <h3 align="center">🔎 Natural Language Processing</h3>
 
 <p align="center">
-  💬 NLP &nbsp; • &nbsp; 🧩 Embeddings
-  <br>
-  🔍 Vector Search &nbsp; • &nbsp; 📄 Document Intelligence
-  <br>
-  🗣️ Text Processing &nbsp; • &nbsp; 🧠 Semantic Search
+  💬 NLP • 🧩 Embeddings<br>
+  🔍 Vector Search • 📄 Document Intelligence<br>
+  🗣️ Text Processing • 🧠 Semantic Search
 </p>
 
 </td>
@@ -186,14 +184,12 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  🔢 NumPy &nbsp; • &nbsp; 📊 Pandas
-  <br>
-  🔍 Exploratory Data Analysis
-  <br>
-  📐 Statistics &nbsp; • &nbsp; ⚙️ Feature Engineering
+  🔢 NumPy • 📊 Pandas<br>
+  🔍 Exploratory Data Analysis<br>
+  📐 Statistics • ⚙️ Feature Engineering
 </p>
 
-<br>
+---
 
 <h3 align="center">📈 Data Analytics</h3>
 
@@ -203,14 +199,12 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  🗄️ SQL &nbsp; • &nbsp; 📊 Power BI
-  <br>
-  📗 Excel &nbsp; • &nbsp; 📈 Interactive Dashboards
-  <br>
-  🔎 Business Insights &nbsp; • &nbsp; 📊 Data Visualization
+  🗄️ SQL • 📊 Power BI<br>
+  📗 Excel • 📈 Interactive Dashboards<br>
+  🔎 Business Insights • 📊 Data Visualization
 </p>
 
-<br>
+---
 
 <h3 align="center">⚙️ Backend Development</h3>
 
@@ -219,14 +213,12 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  🐍 Django &nbsp; • &nbsp; 🌶️ Flask
-  <br>
-  🔌 REST APIs &nbsp; • &nbsp; 🐳 Docker
-  <br>
+  🐍 Django • 🌶️ Flask<br>
+  🔌 REST APIs • 🐳 Docker<br>
   🗄️ Database Integration
 </p>
 
-<br>
+---
 
 <h3 align="center">🌐 Full-Stack AI</h3>
 
@@ -235,11 +227,9 @@ GenAI • LLM Engineering • Backend Development
 </p>
 
 <p align="center">
-  🎨 Frontend &nbsp; • &nbsp; ⚙️ Backend
-  <br>
-  🔌 APIs &nbsp; • &nbsp; 🗄️ Databases
-  <br>
-  🤖 AI Integration &nbsp; • &nbsp; 🚀 End-to-End Applications
+  🎨 Frontend • ⚙️ Backend<br>
+  🔌 APIs • 🗄️ Databases<br>
+  🤖 AI Integration • 🚀 End-to-End Applications
 </p>
 
 </td>
@@ -251,7 +241,7 @@ GenAI • LLM Engineering • Backend Development
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"
     width="90%"
   />
 </p>
@@ -259,6 +249,7 @@ GenAI • LLM Engineering • Backend Development
 <p align="center">
   <b>⚡ AI • ML • GenAI • LLMs • RAG • Data Science • Analytics • Backend • Full-Stack AI ⚡</b>
 </p>
+
 
 
 <!-- ====================== ANIMATED TECH STACK ====================== -->
